@@ -11,7 +11,7 @@ on:
       - '**.kicad_pcb'
 
 jobs:
-  example:
+  rfm2usb:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
