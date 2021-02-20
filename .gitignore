@@ -27,3 +27,8 @@ fp-info-cache
 *.xml
 *.csv
 
+.gitattributes
+.gitconfig
+*-drc.txt
+*-erc.txt
+*.pro-bak
