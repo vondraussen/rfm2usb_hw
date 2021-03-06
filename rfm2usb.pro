@@ -1,4 +1,4 @@
-update=Di 16 Feb 2021 17:54:49 CET
+update=Sa 06 Mär 2021 09:41:41 CET
 version=1
 last_client=kicad
 [general]
@@ -264,7 +264,7 @@ Enabled=0
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/Default]
 Name=Default
-Clearance=0.2
+Clearance=0.199999
 TrackWidth=0.25
 ViaDiameter=0.8
 ViaDrill=0.4
@@ -275,7 +275,7 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=3.3V
-Clearance=0.2
+Clearance=0.199999
 TrackWidth=0.3556
 ViaDiameter=0.8
 ViaDrill=0.4
@@ -286,7 +286,7 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/2]
 Name=RF
-Clearance=0.2
+Clearance=0.199999
 TrackWidth=0.29337
 ViaDiameter=0.8
 ViaDrill=0.4
@@ -297,7 +297,7 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/3]
 Name=USB_DIFF
-Clearance=0.2
+Clearance=0.199999
 TrackWidth=0.25
 ViaDiameter=0.8
 ViaDrill=0.4
