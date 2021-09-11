@@ -4,12 +4,14 @@
         {
             "label": "update images",
             "type": "shell",
-            "command": "pcbdraw --silent rfm2usb.kicad_pcb images/rfm2usb_front.png && pcbdraw --silent -b rfm2usb.kicad_pcb images/rfm2usb_back.png"
+            "command": "pcbdraw --silent rfm2usb.kicad_pcb images/rfm2usb_front.svg && pcbdraw --silent -b rfm2usb.kicad_pcb images/rfm2usb_back.svg",
+            "problemMatcher": []
         },
         {
             "label": "gen docs",
             "type": "shell",
-            "command": "kicad-exports -c docs.kibot.yaml"
+            "command": "kicad-exports -c docs.kibot.yaml",
+            "problemMatcher": []
         }
     ]
 }

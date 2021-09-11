@@ -5,5 +5,10 @@ Firmware repo is [here](https://github.com/vondraussen/rfm2usb).
 ## Schematic
 ![schematic](images/rfm2usb-schematic.svg)
 ## Board
-![pic](images/rfm2usb_front.png)
-![pic](images/rfm2usb_back.png)
+![pic](images/rfm2usb_front.svg)
+![pic](images/rfm2usb_back.svg)
+
+# Tools
+```bash
+pip install pcbdraw
+```
